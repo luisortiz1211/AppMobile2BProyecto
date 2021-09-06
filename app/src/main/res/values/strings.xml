@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Buscador</string>
+    <string name="boton_init_jugar">Jugar</string>
+    <string name="boton_init_salir">Salir</string>
+
+    <string name="boton_juego_reinit">Reiniciar</string>
+    <string name="boton_juego_salir">Salir</string>
+    <string name="title">Memorizando</string>
+    <string name="reiniciar">Memorizando</string>
+
+
+
+</resources>
