@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">Buscador</string>
+    <string name="app_name">PAIRCARD</string>
     <string name="boton_init_jugar">Jugar</string>
     <string name="boton_init_salir">Salir</string>
 
     <string name="boton_juego_reinit">Reiniciar</string>
     <string name="boton_juego_salir">Salir</string>
-    <string name="title">Memorizando</string>
-    <string name="reiniciar">Memorizando</string>
+    <string name="title">PAIRCARD</string>
+    <string name="reiniciar">PAIRCARD</string>
 
 
 

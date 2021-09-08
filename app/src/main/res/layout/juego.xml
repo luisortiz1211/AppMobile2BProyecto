@@ -6,14 +6,15 @@
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="15dp"
+        android:backgroundTint="@color/purple_500"
         android:outlineAmbientShadowColor="@color/design_default_color_on_primary"
- >
+        android:padding="15dp">
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="vertical"
             android:gravity="center_horizontal"
+            android:orientation="vertical"
 
             >
 
@@ -31,232 +32,239 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center">
+
             <ImageButton
                 android:id="@+id/botton0"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="0"
-                />
+                android:layout_column="0" />
+
             <ImageButton
                 android:id="@+id/botton1"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="1"
-                />
+                android:layout_column="1" />
+
             <ImageButton
                 android:id="@+id/botton2"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="2"
-                />
+                android:layout_column="2" />
+
             <ImageButton
                 android:id="@+id/botton3"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="3"
-                />
-            </TableRow>
+                android:layout_column="3" />
+        </TableRow>
         //Fila 2
+
         <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center">
+
             <ImageButton
                 android:id="@+id/botton4"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="0"
-                />
+                android:layout_column="0" />
+
             <ImageButton
                 android:id="@+id/botton5"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="1"
-                />
+                android:layout_column="1" />
+
             <ImageButton
                 android:id="@+id/botton6"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="2"
-                />
+                android:layout_column="2" />
+
             <ImageButton
                 android:id="@+id/botton7"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="3"
-                />
+                android:layout_column="3" />
         </TableRow>
 
         //Fila 3
+
         <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center">
+
             <ImageButton
                 android:id="@+id/botton8"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="0"
-                />
+                android:layout_column="0" />
+
             <ImageButton
                 android:id="@+id/botton9"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="1"
-                />
+                android:layout_column="1" />
+
             <ImageButton
                 android:id="@+id/botton10"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="2"
-                />
+                android:layout_column="2" />
+
             <ImageButton
                 android:id="@+id/botton11"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="3"
-                />
+                android:layout_column="3" />
         </TableRow>
 
         //Fila 4
+
         <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center">
+
             <ImageButton
                 android:id="@+id/botton12"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="0"
-                />
+                android:layout_column="0" />
+
             <ImageButton
                 android:id="@+id/botton13"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="1"
-                />
+                android:layout_column="1" />
+
             <ImageButton
                 android:id="@+id/botton14"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="2"
-                />
+                android:layout_column="2" />
+
             <ImageButton
                 android:id="@+id/botton15"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="3"
-                />
+                android:layout_column="3" />
         </TableRow>
 
         //Fila 5
+
         <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center">
+
             <ImageButton
                 android:id="@+id/botton16"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="0"
-                />
+                android:layout_column="0" />
+
             <ImageButton
                 android:id="@+id/botton17"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="1"
-                />
+                android:layout_column="1" />
+
             <ImageButton
                 android:id="@+id/botton18"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="2"
-                />
+                android:layout_column="2" />
+
             <ImageButton
                 android:id="@+id/botton19"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="3"
-                />
+                android:layout_column="3" />
         </TableRow>
         //Fila 6
+
         <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center">
+
             <ImageButton
                 android:id="@+id/botton20"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="0"
-                />
+                android:layout_column="0" />
+
             <ImageButton
                 android:id="@+id/botton21"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="1"
-                />
+                android:layout_column="1" />
+
             <ImageButton
                 android:id="@+id/botton22"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="2"
-                />
+                android:layout_column="2" />
+
             <ImageButton
                 android:id="@+id/botton23"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
-                android:layout_column="3"
-                />
+                android:layout_column="3" />
         </TableRow>
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="vertical"
-            android:gravity="center_horizontal"
             android:layout_marginTop="20dp"
-            >
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
             <Button
                 android:id="@+id/botonJuegoReiniciar"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/boton_juego_reinit"/>
+                android:backgroundTint="@color/teal_700"
+                android:text="@string/boton_juego_reinit" />
 
         </LinearLayout>
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="vertical"
-            android:gravity="center_horizontal"
             android:layout_marginTop="20dp"
-            >
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
 
             <Button
                 android:id="@+id/botonJuegoSalir"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/boton_juego_salir"
-                />
+                android:backgroundTint="@color/teal_700"
+                android:text="@string/boton_juego_salir" />
 
         </LinearLayout>
 
         // botones final
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="vertical"
-            android:gravity="center_horizontal"
             android:layout_marginTop="20dp"
-            >
+            android:backgroundTint="@color/teal_200"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
             <TextView
                 android:id="@+id/textPuntuation"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="25sp"
                 android:layout_gravity="center"
-               />
+                android:textSize="25sp" />
         </LinearLayout>
-        </TableLayout>
+    </TableLayout>
 
 </LinearLayout>

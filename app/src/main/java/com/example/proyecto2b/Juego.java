@@ -163,10 +163,10 @@ public class Juego extends Activity {
                 first = null;
                 block = false;
                 goals++;
-                points++;
-                textPuntuation.setText("Puntuación: " + points);
+                points=points+3;
+                textPuntuation.setText("Puntos: " + points);
                 if (goals == images.length) {
-                    Toast toast = Toast.makeText(getApplicationContext(), "Has ganado!!", Toast.LENGTH_LONG);
+                    Toast toast = Toast.makeText(getApplicationContext(), "Juego terminado!!", Toast.LENGTH_LONG);
                     toast.show();
                 }
             } else {
@@ -182,7 +182,7 @@ public class Juego extends Activity {
                         block = false;
                         first = null;
                         points--;
-                        textPuntuation.setText("Puntuación: " + points);
+                        textPuntuation.setText("Puntos: " + points);
                     }
                 }, 1000);
             }
