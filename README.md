@@ -15,9 +15,15 @@ Se puede visualizar todos los partes de cartas, con los puntos ganados y la opci
 Se puede visualizar los botones de ingreso al juego.
 ![github-smal](https://github.com/luisortiz1211/AppMobile2BProyecto/blob/main/portada/main.png)
 
+
+Se puede visualizar el número de casillas a emparejar.
 ![github-smal](https://github.com/luisortiz1211/AppMobile2BProyecto/blob/main/portada/juego.png)
 
+
+Imagenes que se añaden al array.
 ![github-smal](https://github.com/luisortiz1211/AppMobile2BProyecto/blob/main/portada/juego1.png)
 
+
+Llamado a las funciones.
 ![github-smal](https://github.com/luisortiz1211/AppMobile2BProyecto/blob/main/portada/juego2.png)
 
