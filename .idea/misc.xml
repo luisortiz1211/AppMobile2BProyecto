@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidProjects/Proyecto2B/app/src/main/res/drawable/ic_logoapp__1_.xml" value="0.2203125" />
-        <entry key="..\:/AndroidProjects/Proyecto2B/app/src/main/res/layout/juego.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/Proyecto2B/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/Proyecto2B/app/src/main/res/layout/juego.xml" value="0.22" />
         <entry key="..\:/AndroidProjects/Proyecto2B/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
         <entry key="..\:/AndroidProjects/Proyecto2B/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1125" />
         <entry key="..\:/AndroidProjects/Proyecto2B/app/src/main/res/mipmap-anydpi-v26/paircard.xml" value="0.2203125" />
