@@ -29,3 +29,6 @@ Imagenes que se añaden al array.
 Llamado a las funciones.
 ![github-smal](https://github.com/luisortiz1211/AppMobile2BProyecto/blob/main/portada/juego2.png)
 
+
+Aplicación desplegada en uptodown
+![github-small](https://github.com/luisortiz1211/AppMobile2BProyecto/blob/main/portada/appstore.png)
