@@ -1,4 +1,6 @@
 # AppMobile2BProyecto
+https://youtu.be/G9sJ42ieCAw
+
 La primera imagen se puede visualizar el layout de inicio con 2 botones uno para ingresar y otro para salir.
 ![github-smal](https://github.com/luisortiz1211/AppMobile2BProyecto/blob/main/portada/p1.png)
 
